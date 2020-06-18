@@ -23,7 +23,7 @@ public class projectVO {
 
 
  public projectVO() {
-	 
+	 System.out.println("sras");
  }
  
  public String getMEMBER_ID() {
@@ -95,6 +95,7 @@ public class projectVO {
  public void setTOTALMEMBER(String TOTALMEMBER) {
 	 this.TOTALMEMBER=TOTALMEMBER;
  }
+ 
  //asdihsakdjashkdjhsakjdhakdl
  //asjkdalksjdsakljdsakljda
  //asdsadasdasdasdada
