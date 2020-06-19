@@ -53,7 +53,7 @@ public class projectVO {
  public void setPROJECT_CONTENT(String PROJECT_CONTENT) {
 	 this.PROJECT_CONTENT=PROJECT_CONTENT;
  }
- 
+ //asdsad
  public String getPROJECT_REGISTER_DAY() {
 	 return PROJECT_REGISTER_DAY;
  }
